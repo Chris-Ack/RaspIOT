@@ -1,0 +1,44 @@
+/*
+
+NOT CURRENTLY USED, ONLY FOR REFERENCE
+
+
+body {
+  margin: 0;
+}
+
+.navText {
+  color: blue;
+}
+
+ .imageCell {
+  display: inline;
+  margin: 10px;
+} 
+
+.container {
+  display: inline-block;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: auto;
+  align-content: center;
+}
+.item {
+  flex: 0 0 auto;
+  margin: 20px;
+  width: 250px;
+  cursor: pointer;
+  margin-right: auto;
+  border: 5px solid hotpink;
+  border-radius: 2px;
+}
+.singleItem {
+  flex: 0 0 auto;
+  margin: 65px;
+  width: 800px;
+  cursor: pointer;
+  margin-right: auto;
+}
+
+*/

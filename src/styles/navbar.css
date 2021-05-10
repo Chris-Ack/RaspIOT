@@ -1,0 +1,19 @@
+.navbar {
+  padding: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  background-color: #6CC04A;
+}
+
+.navbar-header {
+  cursor: pointer;
+  margin-right: auto;
+}
+
+.title {
+  
+    }
+
+.raspilogo {
+  
+}
