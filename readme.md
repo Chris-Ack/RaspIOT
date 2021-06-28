@@ -64,3 +64,15 @@ Starting the front-end client: NPM start
 - https://github.com/fivdi/pigpio (not used in the current version)
 - https://www.youtube.com/watch?v=TbFFW61KULI&t=1s (CodeChrysalis TechTalk "JavaScript for IoT" by Stefano Demichelis)
 - https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Using_readable_streams
+
+## License 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Contact
+
+Chris Ackermann
+<br />
+Github: [https://github.com/Chris-Ack](https://github.com/Chris-Ack)
+<br />
+LinkedIn: [https://www.linkedin.com/in/chris-ackermann/](https://www.linkedin.com/in/chris-ackermann/)
