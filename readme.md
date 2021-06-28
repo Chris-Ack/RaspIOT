@@ -16,7 +16,7 @@ If you would like to get a better idea of what I am trying to achieve, you can f
 
 <p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=olrRWj-mdrw" target="_blank"><img src="http://img.youtube.com/vi/olrRWj-mdrw/0.jpg" 
-alt="RaspIOT on Youtube" width="560" height="420"/></a>
+alt="RaspIOT on Youtube"/></a>
 </p> 
 
 ## Aim and Status of the Project
