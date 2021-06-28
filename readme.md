@@ -1,13 +1,13 @@
-<p align="center">
-</p>    
-<p align="center">
+
+<div align="center">
 <img src="public/assets/logo.png">
-</p> 
+  
+  <b>“RaspIOT” - Personalizing the IOT with a RaspberryPi</b>
+</div> 
 
-## “RaspIOT” - Personalizing the IOT with a RaspberryPi
+## About the Project
 
-With RaspIOT, our aim to create our own IOT device using a RaspberryPi.
-This will give us the opportunity to achieve very personalized functionality.
+RaspIOT aims to create a personalized IOT device using a RaspberryPi. It gives the user the options to control the functionality of a locally deployed RaspberryPi through a web interface. The interface directly connects to the machine (using ngrok) via HTTP requests, and endpoints for these requests give access to a prepared GPIO - "Breadboard". 
 
 ## Initial Advisory
 
