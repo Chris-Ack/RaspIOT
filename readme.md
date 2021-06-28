@@ -1,13 +1,27 @@
-"This was created during my time as a student at Code Chrysalis."
+<p align="center">
+</p>    
+<p align="center">
+<img src="public/assets/logo.png" width="150px">
+</p> 
 
-This is the Repo for the project I will talk about in my Tech Talk on May 22, 2021
 
-“RaspIOT” - Personalizing the IOT with a RaspberryPi
+## “RaspIOT” - Personalizing the IOT with a RaspberryPi
 
-The foundations for this is an earlier project of mine called "Johnny Five Blinks!",
-as the goals remain similar:
+With RaspIOT, our aim to create our own IOT device using a RaspberryPi.
+This will give us the opportunity to achieve very personalized functionality.
 
-Giving remote access to all features of the Raspberry Pi:
+## Initial Advisory
+
+This project was developed as part of the Code Chrysalis Advanced Software Engineering Program, 
+and it has been presented in my Tech Talk on May 22, 2021.
+If you would like to get a better idea of what I am trying to achieve, you can find my talk on youtube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/olrRWj-mdrw" title="RaspIOT Tech Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Aim and Status of the Project
+
+The aim of this project is to give remote access to all features of the Raspberry Pi:
+
 - Small footprint in size, energy use and cost
 - Full GPIO accessibility
 - Advanced camera functions
@@ -19,9 +33,8 @@ Both the back-end server and the mock front-end "client" are included in this re
 Starting the back-end server: NPM run hack
 Starting the front-end client: NPM start
 
-Note: If deployed to Heroku, all other scripts besides "NPM start" might have to be taken out of the package.json
+## Technologies used
 
-Dependencies used at the current stage:
 - Raspberry Pi OS
 - Node.js
 - React
@@ -33,23 +46,20 @@ Dependencies used at the current stage:
 - Liquid Crystal
 - pi-camera-connect
 
-Hardware used:
+## Hardware used:
+
 - Raspberry Pi 4, 4GB RAM, 
 - 32gb microSD
 - Breadboard with GPIO extension Shield
 - 1080P 5M Camera
 - I2C LCD1602 - Display
 
+## Further Documentation:
 
-
-Further Documentation:
 - http://johnny-five.io/ (not used in the current version)
 - https://github.com/fivdi/onoff
 - https://www.npmjs.com/package/pi-camera-connect
 - https://github.com/kevincastejon/js-raspberrypi-liquid-crystal
 - https://github.com/fivdi/pigpio (not used in the current version)
 - https://www.youtube.com/watch?v=TbFFW61KULI&t=1s (CodeChrysalis TechTalk "JavaScript for IoT" by Stefano Demichelis)
-
-
-
 - https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Using_readable_streams
