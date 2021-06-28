@@ -1,9 +1,8 @@
 <p align="center">
 </p>    
 <p align="center">
-<img src="public/assets/logo.png" width="150px">
+<img src="public/assets/logo.png">
 </p> 
-
 
 ## “RaspIOT” - Personalizing the IOT with a RaspberryPi
 
@@ -16,7 +15,9 @@ This project was developed as part of the Code Chrysalis Advanced Software Engin
 and it has been presented in my Tech Talk on May 22, 2021.
 If you would like to get a better idea of what I am trying to achieve, you can find my talk on youtube:
 
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/olrRWj-mdrw" title="RaspIOT Tech Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p> 
 
 ## Aim and Status of the Project
 
