@@ -16,7 +16,7 @@ and it has been presented in my Tech Talk on May 22, 2021.
 If you would like to get a better idea of what I am trying to achieve, you can find my talk on youtube:
 
 <p align="center">
-[![RaspIOT on Youtube](https://img.youtube.com/vi/olrRWj-mdrw/0.jpg)](https://youtu.be/olrRWj-mdrw "Click to play on Youtube.com")
+![RaspIOT on Youtube](https://img.youtube.com/vi/olrRWj-mdrw/0.jpg)(https://youtu.be/olrRWj-mdrw "Click to play on Youtube.com")
 </p> 
 
 ## Aim and Status of the Project
