@@ -17,6 +17,7 @@ If you would like to get a better idea of what I am trying to achieve, you can f
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/olrRWj-mdrw" title="RaspIOT Tech Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/olrRWj-mdrw/0.jpg)](https://youtu.be/olrRWj-mdrw "Click to play on Youtube.com")
 </p> 
 
 ## Aim and Status of the Project
