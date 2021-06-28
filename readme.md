@@ -11,13 +11,12 @@ This will give us the opportunity to achieve very personalized functionality.
 
 ## Initial Advisory
 
-This project was developed as part of the Code Chrysalis Advanced Software Engineering Program, 
-and it has been presented in my Tech Talk on May 22, 2021.
+This project was developed as part of the Code Chrysalis Advanced Software Engineering Program, and it has been presented in my Tech Talk on May 22, 2021.
 If you would like to get a better idea of what I am trying to achieve, you can find my talk on youtube:
 
 <p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=olrRWj-mdrw" target="_blank"><img src="http://img.youtube.com/vi/olrRWj-mdrw/0.jpg" 
-alt="RaspIOT on Youtube" width="560" height="315"/></a>
+alt="RaspIOT on Youtube" width="560" height="420"/></a>
 </p> 
 
 ## Aim and Status of the Project
